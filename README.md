@@ -17,3 +17,6 @@ Read the full Parse Server guide here: https://github.com/ParsePlatform/parse-se
 
 //Todo test Install ngrok and you can test with devices
 
+http://localhost:1337/test
+http://localhost:1337/dash
+http://localhost:1337/parse
